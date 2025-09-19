@@ -1,9 +1,7 @@
-# MFTCL
-Tabular Continual Learning from High-Heterogeneity Feature Spaces via Memory and Forgetting Dual-Driven
 
 ### **Paper title:** 
 
-Exploring Multi-Granularity Balance Strategy for Class Incremental Learning via Human Granular Cognition Mechanism.
+Tabular Continual Learning from High-Heterogeneity Feature Spaces via Memory and Forgetting Dual-Driven.
 
 by Yan Xian, Hong Yu, Yongfang Xie and Guoyin Wang.
 
